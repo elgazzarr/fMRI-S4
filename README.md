@@ -1,6 +1,6 @@
 # fMRI-S4
 
-This the official Pytorch implementation of the paper *fMRI-S4: Learning short- and long-range dynamic fMRI dependencies using 1D Convolutions and State Space Models*
+This the official Pytorch implementation of the paper [*fMRI-S4: Learning short- and long-range dynamic fMRI dependencies using 1D Convolutions and State Space Models*](https://arxiv.org/abs/2208.04166)
 
 <p align="center">
   <img src=./images/model.png>
@@ -55,6 +55,24 @@ See 'interpret.py' for an example.
 A large body of the code used for the S4 model was adopted from this [repo](https://github.com/HazyResearch/state-spaces), so please if you find any part of this work valuable cite their work along with ours.
 
 ```
+
+@misc{https://doi.org/10.48550/arxiv.2208.04166,
+  doi = {10.48550/ARXIV.2208.04166},
+  
+  url = {https://arxiv.org/abs/2208.04166},
+  
+  author = {El-Gazzar, Ahmed and Thomas, Rajat Mani and Van Wingen, Guido},
+  
+  keywords = {Machine Learning (cs.LG), Image and Video Processing (eess.IV), FOS: Computer and information sciences, FOS: Computer and information sciences, FOS: Electrical engineering, electronic engineering, information engineering, FOS: Electrical engineering, electronic engineering, information engineering},
+  
+  title = {fMRI-S4: learning short- and long-range dynamic fMRI dependencies using 1D Convolutions and State Space Models},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {Creative Commons Attribution 4.0 International}
+}
 
 
 @inproceedings{gu2022efficiently,

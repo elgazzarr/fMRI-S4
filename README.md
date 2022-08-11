@@ -2,6 +2,9 @@
 
 This the official Pytorch implementation of the paper *fMRI-S4: Learning short- and long-range dynamic fMRI dependencies using 1D Convolutions and State Space Models*
 
+<p align="center">
+  <img src=./images/fMRI-S4.PNG>
+</p>
 
 ## Setup
 

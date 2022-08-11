@@ -57,22 +57,12 @@ A large body of the code used for the S4 model was adopted from this [repo](http
 ```
 
 @misc{https://doi.org/10.48550/arxiv.2208.04166,
-  doi = {10.48550/ARXIV.2208.04166},
-  
-  url = {https://arxiv.org/abs/2208.04166},
-  
-  author = {El-Gazzar, Ahmed and Thomas, Rajat Mani and Van Wingen, Guido},
-  
-  keywords = {Machine Learning (cs.LG), Image and Video Processing (eess.IV), FOS: Computer and information sciences, FOS: Computer and information sciences, FOS: Electrical engineering, electronic engineering, information engineering, FOS: Electrical engineering, electronic engineering, information engineering},
-  
   title = {fMRI-S4: learning short- and long-range dynamic fMRI dependencies using 1D Convolutions and State Space Models},
-  
+  doi = {10.48550/ARXIV.2208.04166},
+  author = {El-Gazzar, Ahmed and Thomas, Rajat Mani and Van Wingen, Guido},
   publisher = {arXiv},
-  
   year = {2022},
-  
-  copyright = {Creative Commons Attribution 4.0 International}
-}
+  }
 
 
 @inproceedings{gu2022efficiently,

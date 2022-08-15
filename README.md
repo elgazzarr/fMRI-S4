@@ -41,7 +41,7 @@ python main.py --dataset Mddrest --atlas AAL --n_conv_layers 3 --n_s4_layers 0
 
 ```
 
-The default parameters are described in the paper. However you can switch the and I observed robust performance using different hyper-parameters configurations. I recommended using the [weights&biases sweep](https://docs.wandb.ai/guides/sweeps) function for hyper-parameters search.
+The default parameters are described in the paper. You can play around to find the best configuration that works best for your dataset. I observed a relatively robust performance using different hyper-parameters configurations. I recommended using the [weights&biases sweep](https://docs.wandb.ai/guides/sweeps) function for hyper-parameters search.
 
 ## Explainability
 
